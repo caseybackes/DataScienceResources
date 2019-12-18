@@ -11,13 +11,14 @@ When adding resources to this README, the markdown format is
 
 [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code) 
 
-- Quick reference to markdown syntax. 
+   Quick reference to markdown syntax.  
+
 
 ## Mathematical Resources
 ###
 [Seeing Theory](https://seeing-theory.brown.edu/index.html)
 
-- A visual introduction to probability and statistics
+   A visual introduction to probability and statistics
 
 
 
