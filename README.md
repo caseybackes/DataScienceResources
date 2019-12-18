@@ -72,18 +72,7 @@ When adding resources to this README, the markdown format is
 
 [VS Code pro-tips](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) This resource is a great intro for those new to the VS Code IDE, and a great reference for veteran users. Includes the "Basics" as well as pro-tips and tricks. 
 
-*Alias for 'cd ..' for several levels* 
-Add the following alias to the .bash_profile through vi(m) or nano.
 
-`alias ..="cd .."`
-
-`alias ...="cd ../.."`
-
-`alias ....="cd ../../.."`
-
-Save the file, exit the text editor, and re-source the .bash_profile
-
-`$ source .bash_profile`
 
 ## "Reading+" Material
 ### Blogs
