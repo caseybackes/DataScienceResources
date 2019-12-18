@@ -18,6 +18,10 @@ When adding resources to this README, the markdown format is
 ## Programming Resources
 ### EDA
 [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) An amazingly effective 'quick and dirty' tool for EDA.
+
+[Black](https://github.com/psf/black) is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters.
+
+
 ### Python Packages
 [geopandas](http://geopandas.org/) GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types.
 
