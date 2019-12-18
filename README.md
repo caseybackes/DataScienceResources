@@ -29,10 +29,16 @@ When adding resources to this README, the markdown format is
 ### Back-end Engineering
 #### PostgreSQL
 [Psql Cheetsheet.](http://gpdb.docs.pivotal.io/archive/gs/43/pdf/PSQLQuickRef.pdf) Handy reference quide for interacting with PostgreSQL. 
+#### Docker
+[Docker Docs](https://www.docker.com/why-docker) Containerization of applications that mitigates incompatibility across devices and operating systems / configurations. 
+[Docker for Beginners Course](https://www.youtube.com/watch?v=fqMOX6JJhGo) In this course you will learn Docker through a series of lectures that use animation, illustration and some fun analogies that simply complex concepts, we have demos that will show how to install and get started with Docker and most importantly we have hands-on labs that you can access right in your browser. From freeCodeCamp.org. 
 
 ### Front-end Engineering
 #### Styling 
 [Bootstrap4](https://getbootstrap.com/docs/4.0/components/navbar/) CSS styling library for highly professionally designed CSS components - a critical resource for web-based DS projects. 
+
+### System Hacks
+[htop from Brew](https://formulae.brew.sh/formula/htop) an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. [Explainer video](https://www.youtube.com/watch?v=Qw2ZUf0hTF8&t=575s)
 
 ## "Reading+" Material
 ### Blogs
@@ -41,6 +47,7 @@ When adding resources to this README, the markdown format is
 [Towards Data Science Podcast](https://podcasts.apple.com/us/podcast/towards-data-science/id1470952338) Amazing guests share their current DS work. Great way to stay abreast of the broad application landscape in DS. 
 
 ## Grab Bag
+#### Video Content
 [Learn all the Tech](https://www.youtube.com/playlist?list=PLixunRai9j2IKnXTjhGHsAXNEjMY6Qzwx) YouTube Playlist of various technology and math topics from some of the most knowledgable education content creators. Who doesn't like a visual explanation of linear algebra? Special props to you, [3Blue1Brown.](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ## Thought Leaders
