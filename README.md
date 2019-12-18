@@ -48,6 +48,19 @@ When adding resources to this README, the markdown format is
 ### System Hacks
 [htop from Brew](https://formulae.brew.sh/formula/htop) an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. [Explainer video](https://www.youtube.com/watch?v=Qw2ZUf0hTF8&t=575s)
 
+*CD up alias* 
+Add the following alias to the .bash_profile through vi(m) or nano.
+
+`alias ..="cd .."`
+
+`alias ...="cd ../.."`
+
+`alias ....="cd ../../.."`
+
+Save the file, exit the text editor, and re-source the .bash_profile
+
+`$ source .bash_profile`
+
 ## "Reading+" Material
 ### Blogs
 [Towards Data Science](https://towardsdatascience.com/) Great blog from various authors and practioners in the field. 
