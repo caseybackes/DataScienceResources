@@ -1,11 +1,11 @@
 # DataScienceResources
 *December 2019*
 
-Diverse collection of modern resources for Data Science. Resources included will be of a wide range of formats, mediums, and for various levels of experience. Over time, this repo is inteneded to grow as contributors around the world offer more resources. If you have / know of a resource that would help other people, please submit a pull request (actively managed).
+Diverse collection of modern resources for Data Science. Resources included will be of a wide range of formats, mediums, and for various levels of experience. Over time, this repo is inteneded to grow as contributors around the world offer more resources. As the repo grows, more directories will be added and content may be segmented as appropriate. If you have / know of a resource that would help other people, please submit a pull request (actively managed).
 
 When adding resources to this README, the markdown format is
 
-`[Text that has link](link to resource) Explanation of what someone can expect to find or learn from this resource. This is shown below...`
+`[Text to hyperlink](https://link-to-resource.org) Explanation of what someone can expect to find or learn from this resource. This renders below as...`
 
 [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code) Quick reference to markdown syntax. 
 
@@ -25,7 +25,7 @@ When adding resources to this README, the markdown format is
 ### Frameworks
 #### Django
 [Django Docs](https://docs.djangoproject.com/en/3.0/)
-[Django Web App Series.](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) Of the popular web development frameworks in circulation, django is built specifically for python, making it a great production tool for a Data Scientist's side projects and professional projects. Series is taught by education content creator, [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g).
+[Django Web App Series.](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) Of the popular web development frameworks in circulation, django is built specifically with/for python apps, making it a great production tool for a Data Scientist's side projects and professional projects. Series is taught by education content creator, [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g).
 #### Flask
 [Flask Docs](https://www.fullstackpython.com/flask.html) Flask is a great framework for quick and dirty app development.
 [Flask Web App Tutorial Series](https://www.youtube.com/watch?v=MwZwr5Tvyxo) by Corey Schafer. Link goes to video #1 in the series. 
@@ -49,10 +49,10 @@ When adding resources to this README, the markdown format is
 ### Podcasts
 [Towards Data Science Podcast](https://podcasts.apple.com/us/podcast/towards-data-science/id1470952338) Amazing guests share their current DS work. Great way to stay abreast of the broad application landscape in DS. 
 
-## Grab Bag
+## Grab Bag (misc)
 #### Video Content
 [Learn all the Tech](https://www.youtube.com/playlist?list=PLixunRai9j2IKnXTjhGHsAXNEjMY6Qzwx) YouTube Playlist of various technology and math topics from some of the most knowledgable education content creators. Who doesn't like a visual explanation of linear algebra? Special props to you, [3Blue1Brown.](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
-## Thought Leaders
+#### Thought Leaders
 [Dr. Rachel Tatman](http://www.rctatman.com/) is a Data Scientist at Kaggle, live-streams ML/DS content on [Twitch](https://www.twitch.tv/rctatman), and is active on [Twitter](https://twitter.com/rctatman). 
 [Dr. Andrew Ng](https://www.andrewng.org/)is VP & Chief Scientist of Baidu; Co-Chairman and Co-Founder of Coursera; and an Adjunct Professor at Stanford University.  In 2011 he led the development of Stanford University’s main MOOC (Massive Open Online Courses) platform and also taught an online Machine Learning class that was offered to over 100,000 students, leading to the founding of Coursera. Active on [Twitter](https://twitter.com/AndrewYNg)
