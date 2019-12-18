@@ -13,17 +13,33 @@ When adding resources to this README, the markdown format is
 ###
 [Seeing Theory](https://seeing-theory.brown.edu/index.html): A visual introduction to probability and statistics
 
+
+
 ## Programming Resources
 ### EDA
 [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) An amazingly effective 'quick and dirty' tool for EDA.
+### Python Packages
+[geopandas](http://geopandas.org/) GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types.
+
+[beautifulsoup4](https://pypi.org/project/beautifulsoup4/)  A library that makes it easy to scrape information from web pages. 
+
+[awscli](https://aws.amazon.com/cli/) The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.
+ 
+
+
+
 ### Data Visualization
 [5 Python Libraries for Creating Interactive Plots](https://mode.com/blog/python-interactive-plot-libraries)
-
-[D3.js](https://d3js.org/) "Data Driven Documents"(D3) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 
 [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&t=14028s) Tutorial by freeCodeCamp.org on YouTube. This is a full *12 hour* course, but can be a critical tool for data visulization and communication for the modern Data Scientist.
 
 [matplotlib](https://matplotlib.org/gallery/index.html) Link to gallery that showcases the capability of this plotting library. 
+
+[ggplot2](https://ggplot2.tidyverse.org/) is a system for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
+
+[seaborn](https://seaborn.pydata.org/examples/index.html)  i a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics
+
+[D3.js](https://d3js.org/) "Data Driven Documents"(D3) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 
 ## Development Resources
 ### Frameworks
@@ -49,6 +65,8 @@ When adding resources to this README, the markdown format is
 
 ### System Hacks
 [htop from Brew](https://formulae.brew.sh/formula/htop) an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. [Take a video tour of htop](https://www.youtube.com/watch?v=Qw2ZUf0hTF8&t=575s)
+
+[VS Code pro-tips](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) This resource is a great intro for those new to the VS Code IDE, and a great reference for veteran users. Includes the "Basics" as well as pro-tips and tricks. 
 
 *Alias for 'cd ..' for several levels* 
 Add the following alias to the .bash_profile through vi(m) or nano.
@@ -76,4 +94,4 @@ Save the file, exit the text editor, and re-source the .bash_profile
 #### Thought Leaders
 [Dr. Rachel Tatman](http://www.rctatman.com/) is a Data Scientist at Kaggle, live-streams ML/DS content on [Twitch](https://www.twitch.tv/rctatman), and is active on [Twitter](https://twitter.com/rctatman). 
 
-[Dr. Andrew Ng](https://www.andrewng.org/)is VP & Chief Scientist of Baidu; Co-Chairman and Co-Founder of Coursera; and an Adjunct Professor at Stanford University.  In 2011 he led the development of Stanford University’s main MOOC (Massive Open Online Courses) platform and also taught an online Machine Learning class that was offered to over 100,000 students, leading to the founding of Coursera. Active on [Twitter](https://twitter.com/AndrewYNg)
+[Dr. Andrew Ng](https://www.andrewng.org/) is VP & Chief Scientist of Baidu; Co-Chairman and Co-Founder of Coursera; and an Adjunct Professor at Stanford University.  In 2011 he led the development of Stanford University’s main MOOC (Massive Open Online Courses) platform and also taught an online Machine Learning class that was offered to over 100,000 students, leading to the founding of Coursera. Active on [Twitter](https://twitter.com/AndrewYNg)
