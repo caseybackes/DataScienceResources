@@ -28,7 +28,7 @@ When adding resources to this README, the markdown format is
 
 ### Back-end Engineering
 #### PostgreSQL
-[Psql Cheetsheet.](http://gpdb.docs.pivotal.io/archive/gs/43/pdf/PSQLQuickRef.pdf) Psql/PostgreSQL reference quide. 
+[Psql Cheetsheet.](http://gpdb.docs.pivotal.io/archive/gs/43/pdf/PSQLQuickRef.pdf) Handy reference quide for interacting with PostgreSQL. 
 
 ### Front-end Engineering
 #### Styling 
@@ -42,7 +42,7 @@ When adding resources to this README, the markdown format is
 
 ## Grab Bag
 [Learn all the Tech](https://www.youtube.com/playlist?list=PLixunRai9j2IKnXTjhGHsAXNEjMY6Qzwx) YouTube Playlist of various technology and math topics from some of the most knowledgable education content creators. Who doesn't like a visual explanation of linear algebra? Special props to you, [3Blue1Brown.](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-[]()
 
 ## Thought Leaders
-[Dr. Rachel Tatman](http://www.rctatman.com/)
+[Dr. Rachel Tatman](http://www.rctatman.com/) is a Data Scientist at Kaggle, live-streams ML/DS content on [Twitch](https://www.twitch.tv/rctatman), and is active on [Twitter](https://twitter.com/rctatman). 
+[Dr. Andrew Ng](https://www.andrewng.org/)is VP & Chief Scientist of Baidu; Co-Chairman and Co-Founder of Coursera; and an Adjunct Professor at Stanford University.  In 2011 he led the development of Stanford University’s main MOOC (Massive Open Online Courses) platform and also taught an online Machine Learning class that was offered to over 100,000 students, leading to the founding of Coursera. Active on [Twitter](https://twitter.com/AndrewYNg)
