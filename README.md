@@ -46,7 +46,7 @@ When adding resources to this README, the markdown format is
 [Bootstrap4](https://getbootstrap.com/docs/4.0/components/navbar/) CSS styling library for highly professionally designed CSS components - a critical resource for web-based DS projects. 
 
 ### System Hacks
-[htop from Brew](https://formulae.brew.sh/formula/htop) an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. [Explainer video](https://www.youtube.com/watch?v=Qw2ZUf0hTF8&t=575s)
+[htop from Brew](https://formulae.brew.sh/formula/htop) an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. [Take a video tour of htop](https://www.youtube.com/watch?v=Qw2ZUf0hTF8&t=575s)
 
 *CD up alias* 
 Add the following alias to the .bash_profile through vi(m) or nano.
