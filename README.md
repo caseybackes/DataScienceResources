@@ -11,13 +11,13 @@ When adding resources to this README, the markdown format is
 
 [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code) 
 
-    Quick reference to markdown syntax. 
+- Quick reference to markdown syntax. 
 
 ## Mathematical Resources
 ###
 [Seeing Theory](https://seeing-theory.brown.edu/index.html)
 
-    A visual introduction to probability and statistics
+- A visual introduction to probability and statistics
 
 
 
@@ -25,11 +25,11 @@ When adding resources to this README, the markdown format is
 ### EDA
 [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) 
 
-    An amazingly effective 'quick and dirty' tool for EDA.
+An amazingly effective 'quick and dirty' tool for EDA.
 
 [Black](https://github.com/psf/black) 
 
-    Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters.
+Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters.
 
 
 ### Python Packages
