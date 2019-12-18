@@ -32,7 +32,7 @@ When adding resources to this README, the markdown format is
 
 ### Front-end Engineering
 #### Styling 
-[Bootstrap4](https://getbootstrap.com/docs/4.0/components/navbar/) Bootstrap styling library for highly professionally designed CSS components. 
+[Bootstrap4](https://getbootstrap.com/docs/4.0/components/navbar/) CSS styling library for highly professionally designed CSS components - a critical resource for web-based DS projects. 
 
 ## "Reading+" Material
 ### Blogs
@@ -44,3 +44,5 @@ When adding resources to this README, the markdown format is
 [Learn all the Tech](https://www.youtube.com/playlist?list=PLixunRai9j2IKnXTjhGHsAXNEjMY6Qzwx) YouTube Playlist of various technology and math topics from some of the most knowledgable education content creators. Who doesn't like a visual explanation of linear algebra? Special props to you, [3Blue1Brown.](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 []()
 
+## Thought Leaders
+[Dr. Rachel Tatman](http://www.rctatman.com/)
